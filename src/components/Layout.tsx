@@ -14,4 +14,6 @@ export default function Layout(data:any) {
   );
 }
 
-// export const useLayoutContext = useOutletContext()
+export const useLayoutContext = () => {
+  useOutletContext<any>();
+}

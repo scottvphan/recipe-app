@@ -1,4 +1,8 @@
+import { useOutletContext } from "react-router-dom";
+
 export default function HomePage() {
+  const { data } = useOutletContext();
+  console.log(data);
   return (
     <div className="flex flex-col justify-between h-screen">
       <section className="py-16">
