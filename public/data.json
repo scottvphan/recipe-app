@@ -22,7 +22,8 @@
             "Serve the Chicken and Broccoli Alfredo hot, garnished with chopped parsley."
         ],
         "cuisine": "Italian",
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "image": "https://aimeestock.com/wp-content/uploads/2021/10/Chicken-and-Broccoli-Alfredo-with-Penne-HERO.jpg"
     },
     {
         "title": "Black Bean and Corn Salad",
@@ -45,7 +46,8 @@
             "Serve the Black Bean and Corn Salad chilled as a side dish or with tortilla chips."
         ],
         "cuisine": "Mexican",
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/black-bean-and-corn-salad.jpg"
     },
     {
         "title": "Blueberry Lemon Muffins",
@@ -72,7 +74,8 @@
             "Allow the muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
         ],
         "cuisine": "Bakery",
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2020/05/Bakery-Style-Lemon-Blueberry-Muffins-WS-Thumbnail.jpg"
     },
     {
         "title": "Grilled Salmon with Lemon Dill Sauce",
@@ -93,7 +96,8 @@
             "Serve the grilled salmon with additional lemon wedges and drizzle with any remaining sauce."
         ],
         "cuisine": "Seafood",
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "image": "https://assets.epicurious.com/photos/57b4c389df05218810c5213b/master/pass/lemon-dill-sauce.jpg"
     },
     {
         "title": "Vegetarian Quinoa Bowl",
@@ -118,7 +122,8 @@
             "Serve the vegetarian quinoa bowl chilled."
         ],
         "cuisine": "Vegetarian",
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "image": "https://avocadopesto.com/wp-content/uploads/2014/07/Thai-Veggie-Quinoa-Bowl.jpg"
     },
     {
         "title": "Homemade Margherita Pizza",
@@ -142,7 +147,8 @@
             "Remove from the oven, sprinkle fresh basil leaves on top, and let it cool slightly before slicing."
         ],
         "cuisine": "Italian",
-        "difficulty": "Intermediate"
+        "difficulty": "Intermediate",
+        "image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg"
     },
     {
         "title": "Spaghetti Bolognese",
@@ -166,7 +172,8 @@
             "Serve the Bolognese sauce over cooked spaghetti, topped with Parmesan cheese."
         ],
         "cuisine": "Italian",
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204-500x375.jpg"
     },
     {
         "title": "Chicken Stir Fry",
@@ -193,7 +200,8 @@
             "Serve over cooked rice."
         ],
         "cuisine": "Asian",
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "image": "https://www.eatingonadime.com/wp-content/uploads/2022/05/chicken-stir-fry-6-2.jpg"
     },
     {
         "title": "Chocolate Chip Cookies",
@@ -221,6 +229,7 @@
             "Allow cookies to cool on the baking sheet for a few minutes before transferring to wire racks to cool completely."
         ],
         "cuisine": "Dessert",
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "image": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg"
     }
 ]
