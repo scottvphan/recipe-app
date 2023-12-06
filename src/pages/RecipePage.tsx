@@ -6,22 +6,52 @@ import { useOutletContext } from "react-router-dom";
 export default function RecipePage() {
   const { data } = useOutletContext();
   const [ingredientCards, setIngredientCards] = useState<any>();
+  const [instructionCards, setInstructionCards] = useState<any>();
   const recipe = data[0];
 
   useEffect(() => {
-    console.log(recipe)
+    console.log(recipe);
     if (recipe) {
       const mappedIngredients = recipe.ingredients.map((ingredients: any) => {
-        return <li>{ingredients}</li>;
+        return <li key={uuidv4()}>{ingredients}</li>;
       });
-      setIngredientCards(mappedIngredients)
+      setIngredientCards(mappedIngredients);
+      const mappedInstructions = recipe.instructions.map(
+        (instructions: any) => {
+          return <li key={uuidv4()}>{instructions}</li>;
+        }
+      );
+      setInstructionCards(mappedInstructions);
     }
-
   }, []);
   return (
-    <div>
-      <h1>{recipe.title}</h1>
-      {ingredientCards && <ul>{ingredientCards}</ul>}
+    <div className="max-w-2xl mx-auto my-2 h-5/6 p-8 grid gap-4 ">
+      <h1 className="text-3xl font-bold mb-2 ">{recipe.title}</h1>
+      <div>
+        <img
+          src={recipe.image}
+          alt={recipe.title}
+          className="w-full h-auto mb-4"
+        />
+      </div>
+      <h1 className="text-3xl font-bold border-blue-400 border-b-2 m-0 p-0">
+        Ingredients
+      </h1>
+      <div>
+        {ingredientCards && (
+          <ul className="list-disc pl-6 text-blue-500 grid gap-1">{ingredientCards}</ul>
+        )}
+      </div>
+      <div>
+        <h1 typeof="A" className="text-3xl font-bold border-blue-400 border-b-2 m-0 p-0">
+          Instructions
+        </h1>
+        <div>
+          {instructionCards && (
+            <ol className="list-decimal pl-6 text-blue-500 grid gap-1">{instructionCards}</ol>
+          )}
+        </div>
+      </div>
     </div>
   );
 }
