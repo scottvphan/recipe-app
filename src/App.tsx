@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import Layout from "./components/Layout";
+import RecipePage from "./pages/RecipePage";
 
 function App() {
   const [data, setData] = useState<any>();
@@ -31,6 +32,7 @@ function App() {
     createRoutesFromElements(
     <Route path="/" element={<Layout data={data} />}>   
         <Route path="/" element={<HomePage />} />
+        <Route path="/recipe/:id" element={<RecipePage />} />
       </Route>
     )
   );

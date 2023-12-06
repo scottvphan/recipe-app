@@ -1,226 +1,244 @@
 [
-    {
-        "title": "Chicken and Broccoli Alfredo",
-        "ingredients": [
-            "2 boneless, skinless chicken breasts, thinly sliced",
-            "1 pound broccoli florets",
-            "8 oz fettuccine pasta",
-            "2 cups heavy cream",
-            "1 cup grated Parmesan cheese",
-            "4 tablespoons unsalted butter",
-            "3 cloves garlic, minced",
-            "Salt and black pepper to taste",
-            "Chopped parsley for garnish"
-        ],
-        "instructions": [
-            "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
-            "In a large skillet, melt butter over medium heat. Add sliced chicken and cook until no longer pink.",
-            "Add minced garlic and cook for an additional 1-2 minutes.",
-            "Stir in heavy cream, Parmesan cheese, and broccoli florets. Cook until the sauce thickens and broccoli is tender.",
-            "Season with salt and black pepper to taste.",
-            "Add the cooked fettuccine to the skillet, tossing to coat the pasta with the sauce.",
-            "Serve the Chicken and Broccoli Alfredo hot, garnished with chopped parsley."
-        ],
-        "cuisine": "Italian",
-        "difficulty": "Medium"
-    },
-    {
-        "title": "Black Bean and Corn Salad",
-        "ingredients": [
-            "2 cans (15 oz each) black beans, drained and rinsed",
-            "1 cup corn kernels (fresh or frozen)",
-            "1 red bell pepper, diced",
-            "1/2 red onion, finely chopped",
-            "1/4 cup fresh cilantro, chopped",
-            "Juice of 2 limes",
-            "2 tablespoons olive oil",
-            "1 teaspoon ground cumin",
-            "Salt and pepper to taste"
-        ],
-        "instructions": [
-            "In a large bowl, combine black beans, corn, diced bell pepper, chopped red onion, and cilantro.",
-            "In a small bowl, whisk together lime juice, olive oil, ground cumin, salt, and pepper.",
-            "Pour the dressing over the black bean mixture and toss to combine.",
-            "Refrigerate for at least 30 minutes to let the flavors meld.",
-            "Serve the Black Bean and Corn Salad chilled as a side dish or with tortilla chips."
-        ],
-        "cuisine": "Mexican",
-        "difficulty": "Easy"
-    },
-    {
-        "title": "Blueberry Lemon Muffins",
-        "ingredients": [
-            "2 cups all-purpose flour",
-            "1/2 cup granulated sugar",
-            "1 tablespoon baking powder",
-            "1/2 teaspoon salt",
-            "1 cup milk",
-            "1/2 cup unsalted butter, melted",
-            "2 large eggs",
-            "1 teaspoon vanilla extract",
-            "Zest of 1 lemon",
-            "1 cup fresh blueberries"
-        ],
-        "instructions": [
-            "Preheat the oven to 375°F (190°C). Line a muffin tin with paper liners.",
-            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
-            "In another bowl, whisk together milk, melted butter, eggs, vanilla extract, and lemon zest.",
-            "Pour the wet ingredients into the dry ingredients and stir until just combined.",
-            "Fold in the fresh blueberries.",
-            "Divide the batter evenly among the muffin cups.",
-            "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
-            "Allow the muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
-        ],
-        "cuisine": "Bakery",
-        "difficulty": "Easy"
-    },
-    {
-        "title": "Grilled Salmon with Lemon Dill Sauce",
-        "ingredients": [
-            "4 salmon fillets",
-            "1/4 cup olive oil",
-            "2 tablespoons lemon juice",
-            "2 cloves garlic, minced",
-            "1 teaspoon dried dill",
-            "Salt and pepper to taste",
-            "Lemon wedges for garnish"
-        ],
-        "instructions": [
-            "Preheat the grill to medium-high heat.",
-            "In a small bowl, whisk together olive oil, lemon juice, minced garlic, dried dill, salt, and pepper.",
-            "Brush the salmon fillets with the prepared lemon dill sauce.",
-            "Grill the salmon for 4-5 minutes per side or until cooked to your liking.",
-            "Serve the grilled salmon with additional lemon wedges and drizzle with any remaining sauce."
-        ],
-        "cuisine": "Seafood",
-        "difficulty": "Medium"
-    },
-    {
-        "title": "Vegetarian Quinoa Bowl",
-        "ingredients": [
-            "1 cup quinoa, rinsed",
-            "2 cups vegetable broth",
-            "1 can (15 oz) black beans, drained and rinsed",
-            "1 cup cherry tomatoes, halved",
-            "1 cucumber, diced",
-            "1 avocado, sliced",
-            "1/4 cup feta cheese, crumbled",
-            "1/4 cup cilantro, chopped",
-            "Juice of 1 lime",
-            "Salt and pepper to taste"
-        ],
-        "instructions": [
-            "In a medium saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat, cover, and simmer for 15-20 minutes or until quinoa is cooked and liquid is absorbed.",
-            "Fluff the quinoa with a fork and let it cool to room temperature.",
-            "In a large bowl, combine cooked quinoa, black beans, cherry tomatoes, cucumber, avocado, feta cheese, and cilantro.",
-            "Drizzle with lime juice and toss gently to combine.",
-            "Season with salt and pepper to taste.",
-            "Serve the vegetarian quinoa bowl chilled."
-        ],
-        "cuisine": "Vegetarian",
-        "difficulty": "Easy"
-    },
-    {
-        "title": "Homemade Margherita Pizza",
-        "ingredients": [
-            "Pizza dough (store-bought or homemade)",
-            "1/2 cup tomato sauce",
-            "1-2 tomatoes, sliced",
-            "Fresh mozzarella cheese, sliced",
-            "Fresh basil leaves",
-            "1 tablespoon olive oil",
-            "Salt and pepper to taste"
-        ],
-        "instructions": [
-            "Preheat the oven to the highest setting (usually around 475°F or 245°C).",
-            "Roll out the pizza dough on a floured surface to your desired thickness.",
-            "Transfer the rolled-out dough to a pizza stone or baking sheet.",
-            "Spread a thin layer of tomato sauce over the dough, leaving a small border around the edges.",
-            "Arrange tomato slices and mozzarella cheese on top of the sauce.",
-            "Drizzle with olive oil and season with salt and pepper.",
-            "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.",
-            "Remove from the oven, sprinkle fresh basil leaves on top, and let it cool slightly before slicing."
-        ],
-        "cuisine": "Italian",
-        "difficulty": "Intermediate"
-    },
-    {
-        "title": "Spaghetti Bolognese",
-        "ingredients": [
-            "400g spaghetti",
-            "250g ground beef",
-            "1 onion, finely chopped",
-            "2 cloves garlic, minced",
-            "1 can (400g) crushed tomatoes",
-            "1/2 cup red wine",
-            "1 teaspoon dried oregano",
-            "Salt and pepper to taste",
-            "Grated Parmesan cheese for serving"
-        ],
-        "instructions": [
-            "Cook spaghetti according to package instructions.",
-            "In a large skillet, brown the ground beef over medium heat.",
-            "Add chopped onions and garlic, sauté until onions are translucent.",
-            "Stir in crushed tomatoes, red wine, oregano, salt, and pepper.",
-            "Simmer for 20-30 minutes until the sauce thickens.",
-            "Serve the Bolognese sauce over cooked spaghetti, topped with Parmesan cheese."
-        ],
-        "cuisine": "Italian",
-        "difficulty": "Medium"
-    },
-    {
-        "title": "Chicken Stir Fry",
-        "ingredients": [
-            "500g boneless, skinless chicken breast, thinly sliced",
-            "1 bell pepper, thinly sliced",
-            "1 cup broccoli florets",
-            "2 carrots, julienned",
-            "3 tablespoons soy sauce",
-            "2 tablespoons oyster sauce",
-            "1 tablespoon sesame oil",
-            "1 teaspoon grated ginger",
-            "2 cloves garlic, minced",
-            "2 tablespoons vegetable oil",
-            "Cooked rice for serving"
-        ],
-        "instructions": [
-            "In a wok or large skillet, heat vegetable oil over high heat.",
-            "Add sliced chicken and cook until browned and cooked through.",
-            "Add ginger and garlic, stir-fry for 1-2 minutes.",
-            "Add bell pepper, broccoli, and carrots. Stir-fry until vegetables are tender-crisp.",
-            "In a small bowl, mix soy sauce, oyster sauce, and sesame oil. Pour over the chicken and vegetables.",
-            "Stir until everything is well coated and heated through.",
-            "Serve over cooked rice."
-        ],
-        "cuisine": "Asian",
-        "difficulty": "Easy"
-    },
-    {
-        "title": "Chocolate Chip Cookies",
-        "ingredients": [
-            "1 cup butter, softened",
-            "1 cup white sugar",
-            "1 cup packed brown sugar",
-            "2 large eggs",
-            "1 teaspoon vanilla extract",
-            "3 cups all-purpose flour",
-            "1 teaspoon baking soda",
-            "1/2 teaspoon baking powder",
-            "1/2 teaspoon salt",
-            "2 cups chocolate chips"
-        ],
-        "instructions": [
-            "Preheat oven to 350°F (175°C).",
-            "In a large bowl, cream together butter, white sugar, and brown sugar until smooth.",
-            "Beat in the eggs one at a time, then stir in the vanilla.",
-            "In a separate bowl, combine flour, baking soda, baking powder, and salt.",
-            "Gradually add the dry ingredients to the wet ingredients and mix until just blended.",
-            "Stir in the chocolate chips.",
-            "Drop rounded tablespoons of dough onto ungreased baking sheets.",
-            "Bake for 10-12 minutes or until edges are golden brown.",
-            "Allow cookies to cool on the baking sheet for a few minutes before transferring to wire racks to cool completely."
-        ],
-        "cuisine": "Dessert",
-        "difficulty": "Easy"
-    }
+  {
+    "id": 1,
+    "title": "Chicken and Broccoli Alfredo",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, thinly sliced",
+      "1 pound broccoli florets",
+      "8 oz fettuccine pasta",
+      "2 cups heavy cream",
+      "1 cup grated Parmesan cheese",
+      "4 tablespoons unsalted butter",
+      "3 cloves garlic, minced",
+      "Salt and black pepper to taste",
+      "Chopped parsley for garnish"
+    ],
+    "instructions": [
+      "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
+      "In a large skillet, melt butter over medium heat. Add sliced chicken and cook until no longer pink.",
+      "Add minced garlic and cook for an additional 1-2 minutes.",
+      "Stir in heavy cream, Parmesan cheese, and broccoli florets. Cook until the sauce thickens and broccoli is tender.",
+      "Season with salt and black pepper to taste.",
+      "Add the cooked fettuccine to the skillet, tossing to coat the pasta with the sauce.",
+      "Serve the Chicken and Broccoli Alfredo hot, garnished with chopped parsley."
+    ],
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "image": "https://aimeestock.com/wp-content/uploads/2021/10/Chicken-and-Broccoli-Alfredo-with-Penne-HERO.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Black Bean and Corn Salad",
+    "ingredients": [
+      "2 cans (15 oz each) black beans, drained and rinsed",
+      "1 cup corn kernels (fresh or frozen)",
+      "1 red bell pepper, diced",
+      "1/2 red onion, finely chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "Juice of 2 limes",
+      "2 tablespoons olive oil",
+      "1 teaspoon ground cumin",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine black beans, corn, diced bell pepper, chopped red onion, and cilantro.",
+      "In a small bowl, whisk together lime juice, olive oil, ground cumin, salt, and pepper.",
+      "Pour the dressing over the black bean mixture and toss to combine.",
+      "Refrigerate for at least 30 minutes to let the flavors meld.",
+      "Serve the Black Bean and Corn Salad chilled as a side dish or with tortilla chips."
+    ],
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2021/06/black-bean-and-corn-salad.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Blueberry Lemon Muffins",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup granulated sugar",
+      "1 tablespoon baking powder",
+      "1/2 teaspoon salt",
+      "1 cup milk",
+      "1/2 cup unsalted butter, melted",
+      "2 large eggs",
+      "1 teaspoon vanilla extract",
+      "Zest of 1 lemon",
+      "1 cup fresh blueberries"
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F (190°C). Line a muffin tin with paper liners.",
+      "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+      "In another bowl, whisk together milk, melted butter, eggs, vanilla extract, and lemon zest.",
+      "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+      "Fold in the fresh blueberries.",
+      "Divide the batter evenly among the muffin cups.",
+      "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+      "Allow the muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
+    ],
+    "cuisine": "Bakery",
+    "difficulty": "Easy",
+    "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2020/05/Bakery-Style-Lemon-Blueberry-Muffins-WS-Thumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Grilled Salmon with Lemon Dill Sauce",
+    "ingredients": [
+      "4 salmon fillets",
+      "1/4 cup olive oil",
+      "2 tablespoons lemon juice",
+      "2 cloves garlic, minced",
+      "1 teaspoon dried dill",
+      "Salt and pepper to taste",
+      "Lemon wedges for garnish"
+    ],
+    "instructions": [
+      "Preheat the grill to medium-high heat.",
+      "In a small bowl, whisk together olive oil, lemon juice, minced garlic, dried dill, salt, and pepper.",
+      "Brush the salmon fillets with the prepared lemon dill sauce.",
+      "Grill the salmon for 4-5 minutes per side or until cooked to your liking.",
+      "Serve the grilled salmon with additional lemon wedges and drizzle with any remaining sauce."
+    ],
+    "cuisine": "Seafood",
+    "difficulty": "Medium",
+    "image": "https://assets.epicurious.com/photos/57b4c389df05218810c5213b/master/pass/lemon-dill-sauce.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Vegetarian Quinoa Bowl",
+    "ingredients": [
+      "1 cup quinoa, rinsed",
+      "2 cups vegetable broth",
+      "1 can (15 oz) black beans, drained and rinsed",
+      "1 cup cherry tomatoes, halved",
+      "1 cucumber, diced",
+      "1 avocado, sliced",
+      "1/4 cup feta cheese, crumbled",
+      "1/4 cup cilantro, chopped",
+      "Juice of 1 lime",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a medium saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat, cover, and simmer for 15-20 minutes or until quinoa is cooked and liquid is absorbed.",
+      "Fluff the quinoa with a fork and let it cool to room temperature.",
+      "In a large bowl, combine cooked quinoa, black beans, cherry tomatoes, cucumber, avocado, feta cheese, and cilantro.",
+      "Drizzle with lime juice and toss gently to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve the vegetarian quinoa bowl chilled."
+    ],
+    "cuisine": "Vegetarian",
+    "difficulty": "Easy",
+    "image": "https://avocadopesto.com/wp-content/uploads/2014/07/Thai-Veggie-Quinoa-Bowl.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Homemade Margherita Pizza",
+    "ingredients": [
+      "Pizza dough (store-bought or homemade)",
+      "1/2 cup tomato sauce",
+      "1-2 tomatoes, sliced",
+      "Fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to the highest setting (usually around 475°F or 245°C).",
+      "Roll out the pizza dough on a floured surface to your desired thickness.",
+      "Transfer the rolled-out dough to a pizza stone or baking sheet.",
+      "Spread a thin layer of tomato sauce over the dough, leaving a small border around the edges.",
+      "Arrange tomato slices and mozzarella cheese on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper.",
+      "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.",
+      "Remove from the oven, sprinkle fresh basil leaves on top, and let it cool slightly before slicing."
+    ],
+    "cuisine": "Italian",
+    "difficulty": "Intermediate",
+    "image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Spaghetti Bolognese",
+    "ingredients": [
+      "400g spaghetti",
+      "250g ground beef",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 can (400g) crushed tomatoes",
+      "1/2 cup red wine",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large skillet, brown the ground beef over medium heat.",
+      "Add chopped onions and garlic, sauté until onions are translucent.",
+      "Stir in crushed tomatoes, red wine, oregano, salt, and pepper.",
+      "Simmer for 20-30 minutes until the sauce thickens.",
+      "Serve the Bolognese sauce over cooked spaghetti, topped with Parmesan cheese."
+    ],
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204-500x375.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chicken Stir Fry",
+    "ingredients": [
+      "500g boneless, skinless chicken breast, thinly sliced",
+      "1 bell pepper, thinly sliced",
+      "1 cup broccoli florets",
+      "2 carrots, julienned",
+      "3 tablespoons soy sauce",
+      "2 tablespoons oyster sauce",
+      "1 tablespoon sesame oil",
+      "1 teaspoon grated ginger",
+      "2 cloves garlic, minced",
+      "2 tablespoons vegetable oil",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "In a wok or large skillet, heat vegetable oil over high heat.",
+      "Add sliced chicken and cook until browned and cooked through.",
+      "Add ginger and garlic, stir-fry for 1-2 minutes.",
+      "Add bell pepper, broccoli, and carrots. Stir-fry until vegetables are tender-crisp.",
+      "In a small bowl, mix soy sauce, oyster sauce, and sesame oil. Pour over the chicken and vegetables.",
+      "Stir until everything is well coated and heated through.",
+      "Serve over cooked rice."
+    ],
+    "cuisine": "Asian",
+    "difficulty": "Easy",
+    "image": "https://www.eatingonadime.com/wp-content/uploads/2022/05/chicken-stir-fry-6-2.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1 cup white sugar",
+      "1 cup packed brown sugar",
+      "2 large eggs",
+      "1 teaspoon vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "2 cups chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a large bowl, cream together butter, white sugar, and brown sugar until smooth.",
+      "Beat in the eggs one at a time, then stir in the vanilla.",
+      "In a separate bowl, combine flour, baking soda, baking powder, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients and mix until just blended.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes or until edges are golden brown.",
+      "Allow cookies to cool on the baking sheet for a few minutes before transferring to wire racks to cool completely."
+    ],
+    "cuisine": "Dessert",
+    "difficulty": "Easy",
+    "image": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg"
+  }
 ]
