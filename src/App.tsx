@@ -10,7 +10,6 @@ import Layout from "./components/Layout";
 
 function App() {
   const [data, setData] = useState<any>();
-  const [dataLoaded, setDataLoaded] = useState(false);
 
   useEffect(() => {
     fetchData();

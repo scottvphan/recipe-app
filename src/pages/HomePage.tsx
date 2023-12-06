@@ -1,7 +1,22 @@
 import { useOutletContext } from "react-router-dom";
+import RecipeCardComponent from "../components/RecipeCardComponent";
+import {v4 as uuidv4} from 'uuid'
+import { useState, useEffect } from 'react'
 
 export default function HomePage() {
   const { data } = useOutletContext();
+  const [mappedCards, setMappedCards] = useState<any>('')
+  useEffect(() => {
+    if(data) {
+      const mappedRecipes = data.map((data:any) => {
+        return (
+          <RecipeCardComponent key={uuidv4()} data={data} />
+        )
+      })
+      setMappedCards(mappedRecipes)
+    }
+  }, [])
+
   console.log(data);
   return (
     <div className="flex flex-col justify-between h-screen">
@@ -12,31 +27,7 @@ export default function HomePage() {
           </h2>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold mb-2">
-                Spaghetti Bolognese
-              </h3>
-              <p className="text-gray-600">
-                A classic Italian dish with a rich tomato and meat sauce served
-                over pasta.
-              </p>
-            </div>
-
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold mb-2">Grilled Salmon</h3>
-              <p className="text-gray-600">
-                Delicious and healthy grilled salmon seasoned to perfection.
-              </p>
-            </div>
-
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold mb-2">
-                Chocolate Chip Cookies
-              </h3>
-              <p className="text-gray-600">
-                Soft and chewy chocolate chip cookies that everyone will love.
-              </p>
-            </div>
+            {mappedCards && mappedCards}
           </div>
         </div>
       </section>
